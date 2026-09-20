@@ -8,7 +8,6 @@ questions = [
             "D": ("Spend time helping or hanging out with people", "Social Helper")
         }
     },
-
     {
         "question": "Your group gets a difficult assignment. What do you naturally do first?",
         "options": {
@@ -18,7 +17,6 @@ questions = [
             "D": ("Make sure everyone understands their role and feels included", "Social Helper")
         }
     },
-
     {
         "question": "If you could instantly become amazing at one skill, which would you choose?",
         "options": {
@@ -28,7 +26,6 @@ questions = [
             "D": ("Communication", "Social Helper")
         }
     },
-
     {
         "question": "Your friend has a problem. What's your first reaction?",
         "options": {
@@ -38,7 +35,6 @@ questions = [
             "D": ("Listen to them and support them", "Social Helper")
         }
     },
-
     {
         "question": "Which situation sounds the most exciting?",
         "options": {
@@ -48,7 +44,6 @@ questions = [
             "D": ("Making a positive difference in someone's life", "Social Helper")
         }
     },
-
     {
         "question": "You're given ₹10,000 to start a small project. What would you do?",
         "options": {
@@ -58,7 +53,6 @@ questions = [
             "D": ("Start something that helps people in your community", "Social Helper")
         }
     },
-
     {
         "question": "During a team discussion, you usually become the person who...",
         "options": {
@@ -68,7 +62,6 @@ questions = [
             "D": ("Makes sure everyone's opinion is heard", "Social Helper")
         }
     },
-
     {
         "question": "Which compliment would make you happiest?",
         "options": {
@@ -78,7 +71,6 @@ questions = [
             "D": ("People feel comfortable talking to you.", "Social Helper")
         }
     },
-
     {
         "question": "Imagine you're stuck in an escape room. What would you probably do?",
         "options": {
@@ -88,7 +80,6 @@ questions = [
             "D": ("Keep the team calm and motivated", "Social Helper")
         }
     },
-
     {
         "question": "If you had to create a YouTube channel, what would you most likely make?",
         "options": {
@@ -98,7 +89,6 @@ questions = [
             "D": ("Advice, educational, or people-focused content", "Social Helper")
         }
     },
-
     {
         "question": "What frustrates you the most?",
         "options": {
@@ -108,7 +98,6 @@ questions = [
             "D": ("Someone being ignored or treated unfairly", "Social Helper")
         }
     },
-
     {
         "question": "You have to organize a college event. Which role would you choose?",
         "options": {
@@ -118,7 +107,6 @@ questions = [
             "D": ("Handle guests, participants, and everyone's needs", "Social Helper")
         }
     },
-
     {
         "question": "You discover a new app that you've never used before. What do you do?",
         "options": {
@@ -128,7 +116,6 @@ questions = [
             "D": ("Learn it so you can help your friends use it too", "Social Helper")
         }
     },
-
     {
         "question": "Which challenge would you choose?",
         "options": {
@@ -138,7 +125,6 @@ questions = [
             "D": ("Help a group of people overcome a difficult situation", "Social Helper")
         }
     },
-
     {
         "question": "At the end of a successful project, what would make you feel most satisfied?",
         "options": {
