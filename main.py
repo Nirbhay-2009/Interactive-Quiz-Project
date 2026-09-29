@@ -9,8 +9,8 @@ window = tk.Tk()
 window.title("Interactive Personality & Career Quiz")
 
 # Bigger window so everything fits properly
-window.geometry("900x650")
-window.resizable(False, False)
+window.geometry("950x700")
+window.resizable(True,True)
 window.configure(bg="#EEF3FF")
 
 # COLORS
